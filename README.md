@@ -12,11 +12,15 @@ Source: https://ieee-dataport.org/open-access/crawdad-epflmobility
 After downloading, extract the zip and place at the same folder with the location_entropy.ipynb.
 The path will be: 
 Location Entropy/
+
 └── cabspottingdata/
+
     └── _cabs.txt
     └── new_abboip.txt
     └── ...
+    
 └── location_entropy.ipynb
+
 └── README.md
 
 ## Tools Used
@@ -51,4 +55,5 @@ Sudden changes in entropy patterns can indicate:
 - Such insights can power real-time monitoring systems.
 
 # Conclusion
+
 This project demonstrates how spatio-temporal data and information theory can be combined to generate meaningful insights into human mobility. The approach is scalable, interpretable, and suitable for real-world deployment.
